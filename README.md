@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ajinkya Joshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p>I am an innovative technical web developer, with professional and programming skills to address the most critical business needs in creating websites and applications. My dedication to perfecting my craft is by learning from seasoned developers by remaining humble. By working with a few collaborative projects within my learning experience of web development at Masai, I have acquired excellent listening skills, a high level of patients, diligence, and persistence. 
+
+I would like to contribute to the technology industry with a quality skill set that effectively:
+- produce clean code to meet the requirements
+- resolve issues with existing code
+- develop authentication and security codes to protect and preserve data
+- manage the project through its complete lifecycles
+
+Making continuous strides in perfecting my skills and my abilities to solve complex algorithms is what will contribute to my overall career as a successful full-stack web developer.</p>
+
 - 🌱 I’m currently learning **Full Stack web Development**
 
 - 👯 I’m looking to collaborate on **Zerodha and Spotify clone**
