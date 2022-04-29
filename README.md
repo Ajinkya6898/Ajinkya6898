@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajinkya Joshi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack Web developer from India</h3>
 
 <p>I am an innovative technical web developer, with professional and programming skills to address the most critical business needs in creating websites and applications. My dedication to perfecting my craft is by learning from seasoned developers by remaining humble. By working with a few collaborative projects within my learning experience of web development at Masai, I have acquired excellent listening skills, a high level of patients, diligence, and persistence. 
 
