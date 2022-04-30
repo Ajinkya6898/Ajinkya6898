@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ajinkya Joshi</h1>
 <h3 align="center">A Passionate Full-Stack Web developer from India</h3>
 
+<img src="https://camo.githubusercontent.com/90f8417358215dce1e594d4cce1087b884d0a82f0705aa7e3de2cc36ae8e17d6/68747470733a2f2f73656f746163746963612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30332f6578706572742d646576656c6f706572732e676966">
+
 <p>I am an innovative technical web developer, with professional and programming skills to address the most critical business needs in creating websites and applications. My dedication to perfecting my craft is by learning from seasoned developers by remaining humble. By working with a few collaborative projects within my learning experience of web development at Masai, I have acquired excellent listening skills, a high level of patients, diligence, and persistence. 
 
 I would like to contribute to the technology industry with a quality skill set that effectively:
